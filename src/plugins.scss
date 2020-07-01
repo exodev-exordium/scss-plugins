@@ -1,0 +1,23 @@
+/* @exordium/scss-plugins
+ * - third node_module for the exordium frontend and backend projects,
+ *   that contain multiple reusable stylesheets, that arent focussed
+ *   on the main designs.
+ */
+
+// pace.js
+@import "pace";
+
+// fontawesome
+@import "fontawesome";
+
+// datatables
+@import "datatable";
+
+// toastr
+@import "toastr";
+
+// select
+@import "select";
+
+// animate.css
+@import "~animate.css/animate.css";
