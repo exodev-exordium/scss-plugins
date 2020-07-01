@@ -1,0 +1,30 @@
+{
+  "name": "@exordium/scss-plugins",
+  "version": "0.0.1",
+  "description": "The plugin additions for both the frontend and backend designs of exordium.org. ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exordium-dev/scss-plugins.git"
+  },
+  "keywords": [
+    "exordium",
+    "fontend",
+    "backend",
+    "plugins",
+    "scss",
+    "sass"
+  ],
+  "author": "FearGannicus",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/exordium-dev/scss-plugins/issues"
+  },
+  "homepage": "https://github.com/exordium-dev/scss-plugins#readme",
+  "dependencies": {
+    "@swimlane/ngx-datatable": "^17.0.0",
+    "animate.css": "^4.1.0"
+  }
+}
