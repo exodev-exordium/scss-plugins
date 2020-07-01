@@ -10,6 +10,15 @@
       height: 0;
     }
 }
+@keyframes hue {
+    from {
+      -webkit-filter: hue-rotate(0deg);
+    }
+  
+    to {
+      -webkit-filter: hue-rotate(-360deg);
+    }
+}
   
 body {
     > div.loader {
@@ -56,15 +65,5 @@ body {
       -webkit-animation: hue 2s linear infinite;
       -moz-animation: hue 2s linear infinite;
       animation: hue 2s linear infinite;
-    }
- }
-  
-@-webkit-keyframes hue {
-    from {
-      -webkit-filter: hue-rotate(0deg);
-    }
-  
-    to {
-      -webkit-filter: hue-rotate(-360deg);
     }
 }
