@@ -178,3 +178,15 @@
       box-shadow: 0px -2px 7px 0px rgba(0, 0, 0, 0.13);
     }
   }
+
+// theme options
+.toast-error {
+  .notyf__ripple {
+    background-color: rgb(237, 61, 61);
+  }
+}
+.toast-success {
+  .notyf__ripple {
+    background-color: rgb(61, 199, 99);
+  }
+}

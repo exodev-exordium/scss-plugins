@@ -1,6 +1,6 @@
 {
   "name": "@exordium/scss-plugins",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "The plugin additions for both the frontend and backend designs of exordium.org. ",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
