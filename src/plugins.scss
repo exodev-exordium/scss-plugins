@@ -4,6 +4,16 @@
  *   on the main designs.
  */
 
+ /* exordium universal plugins */
+
+ // exordium wifi loader
+ @import "exordium/loader";
+
+  // exordium m-progress
+  @import "exordium/progress";
+
+ /* misc plugins */
+
 // pace.js
 @import "pace";
 
